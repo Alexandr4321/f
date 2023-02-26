@@ -1,0 +1,15 @@
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\bin\Debug\net6.0\NewRab.exe
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\bin\Debug\net6.0\NewRab.deps.json
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\bin\Debug\net6.0\NewRab.runtimeconfig.json
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\bin\Debug\net6.0\NewRab.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\bin\Debug\net6.0\NewRab.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.csproj.AssemblyReference.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.AssemblyInfoInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.AssemblyInfo.cs
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.csproj.CoreCompileInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\refint\NewRab.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\NewRab.genruntimeconfig.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\NewRab\obj\Debug\net6.0\ref\NewRab.dll
